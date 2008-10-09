@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2395
+
+Unzip both files in plugin directory of VIM, modify "selfreqfiles.txt" to meet your need. PRJ1/PRJ2 is menu selection will pop up when F1 or Sft-F1 pressed on key board, Default file name will be opened in respective directory upon selection so dont forget to modify it according to your need, 
+(This is first version it does not like if there is more then one space between names)
+
+PRJ1 c:\PRJ1DIR1 DEFFILEPRJ1.C
+PRJ2 c:\PRJ1DIR2 DEFFILEPRJ2.C
